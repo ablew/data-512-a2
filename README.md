@@ -45,7 +45,7 @@ In addition, the ORES REST API is used to obtain the predicted category for the 
 
 ## Files Created
 
-This notebook creates 5 CSV files of data extracted and compiled as part of this analysis.
+This notebook creates seven CSV files of data extracted and compiled as part of this analysis.
 
 The first file is wp_wpds_contries-no-match.csv, which contains the articles for which the country or region was not found in the wpds_2018_data.csv dataset. Contains columns ‘page’, ‘country’, and ‘rev_id’.
 
@@ -73,9 +73,10 @@ The columns in the last two csv files mean:
 
 The sixth file is high_quality_by_region.png, which is an image showing a bar plot for percentage of high-quality articles by region.
 
+The seventh file is coverage_by_region.png, which is an image showing a bar plot for coverage percentage by region.
 ## Visualizations Created
 
-The tables and bar plots can be seen in the results section of the jupyter notebook file ‘hcde-a2-bias-in-data.ipynb’. The bar plot is also saved in the results folder as a .png file.
+The tables and bar plots can be seen in the results section of the jupyter notebook file ‘hcde-a2-bias-in-data.ipynb’. The bar plots are also saved in the results folder as a .png file.
 
 ## License
 
