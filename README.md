@@ -76,7 +76,7 @@ The sixth file is high_quality_by_region.png, which is an image showing a bar pl
 The seventh file is coverage_by_region.png, which is an image showing a bar plot for coverage percentage by region.
 ## Visualizations Created
 
-The tables and bar plots can be seen in the results section of the jupyter notebook file ‘hcde-a2-bias-in-data.ipynb’. The bar plots are also saved in the results folder as a .png file.
+The tables and bar plots can be seen in the results section of the jupyter notebook file ‘hcde-a2-bias-in-data.ipynb’. The bar plots are also saved in the results folder as .png files.
 
 ## License
 
